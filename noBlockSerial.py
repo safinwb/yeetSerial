@@ -5,8 +5,6 @@ import time
 
 ser = serial.Serial('COM5', baudrate = 115200)
 
-data = [0]
-
 print("""\
                     __  _____           _       __
    __  _____  ___  / /_/ ___/___  _____(_)___ _/ /
